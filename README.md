@@ -6,7 +6,7 @@ This is a list of projects that I have conducted at university and various proje
 During my third year (first semester) Data Mining course at university, I studied regression models and carried out a project to build a regression model that predicts the price of used cars. In order to acquire used car data, I collected data from a used car trading platform called "Bobae Dream". This project allowed me to experience data crawling firsthand and understand the concepts of various regression models (linear regression, Ridge, Lasso, ElasticNet regression, DT, RF, etc.).
 
 
-[Paper link] / [Code link](https://github.com/Kdavid2355/ai_project/blob/main/codes/Used%20car%20price%20prediction%20model.ipynb)
+[Paper link](https://github.com/Kdavid2355/ai_project/blob/main/project_paper/Used_Car_Price_prediction.pdf) / [Code link](https://github.com/Kdavid2355/ai_project/blob/main/codes/Used%20car%20price%20prediction%20model.ipynb)
 
 
 ###  2. Dacon Wallpaper Defect Type Classification AI Competition
