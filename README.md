@@ -2,7 +2,8 @@
 
 This is a list of projects that I have conducted at university and various project teams! I plan to create more polished projects through more projects and in-depth learning in the future!
 
-###  1. Dacon Wallpaper Defect Type Classification AI Competition
+
+###  2. Dacon Wallpaper Defect Type Classification AI Competition
 This was a competition to classify 19 types of defects in walls or construction work, such as wallpapering. I thought that the key to this task was to solve the severe imbalance of the given data. Although there were many parts I regret as this was my first AI project, I was able to learn about the concepts of data augmentation, transfer learning, and study various image classification models such as ResNet, DenseNet, and VGG.
 
 ####  Lessons Learned
@@ -19,4 +20,4 @@ I performed data augmentation on the entire given data and divided it into a 7:3
 
 
 
-[paper link](https://github.com/Kdavid2355/ai_project/blob/main/project_paper/Paper%20defect%20type%20classification%20model.pdf) / [code link](https://github.com/Kdavid2355/ai_project/blob/main/Paper_defect_type_classification_model.ipynb)
+[paper link](https://github.com/Kdavid2355/ai_project/blob/main/project_paper/Paper%20defect%20type%20classification%20model.pdf) / [code link]([https://github.com/Kdavid2355/ai_project/blob/main/Paper_defect_type_classification_model.ipynb](https://github.com/Kdavid2355/ai_project/blob/main/codes/Paper_defect_type_classification_model.ipynb)https://github.com/Kdavid2355/ai_project/blob/main/codes/Paper_defect_type_classification_model.ipynb)
