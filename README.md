@@ -20,4 +20,4 @@ I performed data augmentation on the entire given data and divided it into a 7:3
 
 
 
-[paper link](https://github.com/Kdavid2355/ai_project/blob/main/project_paper/Paper%20defect%20type%20classification%20model.pdf) / [code link]([https://github.com/Kdavid2355/ai_project/blob/main/Paper_defect_type_classification_model.ipynb](https://github.com/Kdavid2355/ai_project/blob/main/codes/Paper_defect_type_classification_model.ipynb)https://github.com/Kdavid2355/ai_project/blob/main/codes/Paper_defect_type_classification_model.ipynb)
+[paper link](https://github.com/Kdavid2355/ai_project/blob/main/project_paper/Paper%20defect%20type%20classification%20model.pdf) / [code link](https://github.com/Kdavid2355/ai_project/blob/main/codes/Paper_defect_type_classification_model.ipynb)
